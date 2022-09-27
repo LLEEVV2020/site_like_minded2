@@ -1,0 +1,55 @@
+CTRL в фигме вводить (если не видно шрифтов)
+
+В VSCODE нажимаем режим ZEM (для концентрации внимания)
+SHIFT+ALT+F - выстраивается правиьная табуляция в коде
+
+Фигма
+1. SHIFT + R  линейки в фигме
+	Брать линейку и делать направляющие слева и справа и поцентру. https://prnt.sc/JJJPbHkAZVSe
+	Также можно открыть макет колонок https://prnt.sc/pNKtlyx8eJaZ
+
+2. font fascia - фигма плагин для шрифтов
+	2.1 В VSCODE вбиваем F1, открывается https://prnt.sc/tLHjokv0r-ai
+	Выбираем Google Fonts...  (если его нет, то установить плагин "Google Fonts")
+	Окрывается список шрифтов и выбираем поиском нужный нам шрифт
+	2.1 Плагин SCSS IntelliSense. Для подсказок
+	2.1 SCSS Formatter - форматирование кода scss (не установил)
+	2.3 Auto Complete Tag - автоматическое закрывание кода при редактировании тега первого
+	2.4 Bracked Pair Colorizer Цветные скобки
+	2.5 Better Comments - Цветные комментарии
+	2.6 BEM Helper - стыдливый BEM. Надо заходить в "сочетание клавишь" и делать на Z+1
+		SHIFT + Z один класс добавляем
+		SHIFT + A в SCSS добавляем классы
+		SHIFT + b два класса добавляем
+	2.7 eCSStractor for VSCode 
+		SHIFT + S (копирование из html в scss классов)
+	2.8 CSS Navigation
+		Тыкать на F12 чтоб найти класс css
+	2.9 Image preview (превью картинок в коде)
+	2.10 VSCode Google Translate - Переводчик с английского
+		extension.translateText - https://prnt.sc/fDJ6Nn9dAPWf
+		ALT + X (на русский)
+		ALT + S (на английский)
+		2.10.1 Параметры - расширение https://prnt.sc/xc5tzzRrnf4Q 
+		нужно полностью обводить текст
+	2.11 Project Manager (легкое переключение между папками)
+
+
+
+
+верстать отдельные модули, потом их интегрировать
+
+npm run dev
+
+https://dev.to/nikolab
+
+ССылки на адаптивность
+https://prnt.sc/44-XUfGRaWY8
+https://www.youtube.com/results?search_query=adaptiveValue
+
+https://github.com/FreelancerLifeStyle/dynamic_adapt
+https://www.youtube.com/watch?v=QKuMr575vlQ
+
+
+scrinshoots
+https://prnt.sc/WFc_jBc0WTYz

@@ -1,0 +1,42 @@
+.contacts {
+	@include flex ($flex-direction: column);
+	gap: 10px;
+
+	// .contacts__title
+	&__title {
+
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 18px;
+
+		color: #FFFFFF;
+		max-width: 120px;
+
+		@media (min-width:1920px) {
+
+			font-size: 18px;
+			line-height: 23px;
+			max-width: 170px;
+
+		}
+
+
+
+	}
+
+	// .contacts__list
+	&__list {
+		@include flex();
+		gap: 20px;
+		align-self: flex-start;
+	}
+
+	// .contacts__item
+	&__item {}
+
+	// .contacts__link
+	&__link {}
+
+	// .contacts__img
+	&__img {}
+}

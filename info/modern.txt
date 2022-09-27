@@ -1,0 +1,5 @@
+1. Добавить новые библеотеки https://prnt.sc/H2Q1JZv-r_jG
+2. Увеличить радиус видени scss, то есть удалить эти слова
+https://prnt.sc/agpDRRhxCUlB
+
+

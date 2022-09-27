@@ -1,0 +1,13 @@
+.logo {
+
+	// .logo__link
+	&__link {}
+
+	// .logo__img
+	&__img {
+		@media (min-width:1920px) {
+			width: 129px;
+			height: 66px;
+		}
+	}
+}
